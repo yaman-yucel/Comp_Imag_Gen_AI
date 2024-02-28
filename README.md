@@ -7,4 +7,4 @@ Project 2: Synthetic Defocus \
 
 Project 3: Simple NeRF \
 
-Project 4: Intro to Diffusers/ could no added due to multiple images taking too much space.
+Project 4: Intro to Diffusers/ could not added due to multiple images taking too much space.
